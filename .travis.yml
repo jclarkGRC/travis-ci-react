@@ -14,6 +14,3 @@ deploy:
   local_dir: build
   on:
     branch: master
-
-
-    6ba40a398d00fa58b5d09982cbef6a37efbf0b80
