@@ -3,7 +3,7 @@ This project will show you how to set up a Travis CI build pipeline.
 
 #### Useful links
 
-Tutorial: https://docs.travis-ci.com/user/tutorial/
+Tutorial: https://docs.travis-ci.com/user/tutorial/<br>
 Deploy to Github Pages:  https://medium.com/@bezgachev/6-simple-steps-to-automatically-test-and-deploy-your-javascript-app-to-github-pages-c4c32a34bcb1
 
 #Create React App
