@@ -1,6 +1,9 @@
 # Travis CI Create-React-Example
 This project will show you how to set up a Travis CI build pipeline.
 
+Tutorial: https://docs.travis-ci.com/user/tutorial/
+
+##Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
