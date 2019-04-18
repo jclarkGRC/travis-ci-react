@@ -13,7 +13,7 @@ This project will show you how to set up a Travis CI build pipeline.
 <strong>TODOS:</strong>
 <li>Write documentation about setting up travis CI within Github.</li>
 
-##Create React App
+## Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
