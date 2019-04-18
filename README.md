@@ -1,3 +1,20 @@
+# Travis CI Create-React-Example
+This project will show you how to set up a Travis CI build pipeline.
+
+[![Build Status](https://travis-ci.com/jclarkGRC/travis-ci-react.svg?branch=master)](https://travis-ci.com/jclarkGRC/travis-ci-react)
+<br>
+<li>How we added this build status: https://stackoverflow.com/questions/19810386/showing-travis-build-status-in-github-repo</li>
+
+#### Useful links
+
+<li><strong>Tutorial:</strong> https://docs.travis-ci.com/user/tutorial/</li>
+<li><strong>Deploy to Github Pages:</strong>  https://medium.com/@bezgachev/6-simple-steps-to-automatically-test-and-deploy-your-javascript-app-to-github-pages-c4c32a34bcb1</li>
+<br>
+<strong>TODOS:</strong>
+<li>Write documentation about setting up travis CI within Github.</li>
+
+#Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
