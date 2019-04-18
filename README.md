@@ -5,8 +5,6 @@ This project will show you how to set up a Travis CI build pipeline.
 <br>
 <li>How we added this build status: https://stackoverflow.com/questions/19810386/showing-travis-build-status-in-github-repo</li>
 
-#### Where app is currently deployed
-
 #### Useful links
 
 <li><strong>Where app is currently deployed:</strong> https://jclarkgrc.github.io/travis-ci-react/</li>
